@@ -134,6 +134,8 @@ Track training progress and view experiment details: [Wandb Report Link](https:/
 ### Complete Report
 For detailed project documentation and analysis: [Docs](https://docs.google.com/document/d/1N7OuYE1vUVSWzFI4aR0V3RzDNJeeb1BHAjezBm9dCUE/edit?usp=sharing)
 
+[PDF](https://drive.google.com/file/d/17RFKwSh_to91GXDeGuwwNZg5W9XeqfQJ/view?usp=sharing)
+
 ## Dataset Format
 
 The `data.json` file in each split folder contains metadata with the following structure:
