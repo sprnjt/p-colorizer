@@ -121,6 +121,8 @@ Download pre-trained model weights from: [Google Drive](https://drive.google.com
 
 Model on Kaggle: [Kaggle](https://www.kaggle.com/models/suparnojitsarkar/p-colorizer-model)
 
+Model on HF: [Hugging Face](https://huggingface.co/suparnojit/polygon-colorizer-unet)
+
 ### Kaggle Notebook
 For complete training and inference examples, refer to the Kaggle notebook: [Kaggle Notebook](https://www.kaggle.com/code/suparnojitsarkar/p-colorizer-final-version)
 
