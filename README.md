@@ -129,7 +129,7 @@ For complete training and inference examples, refer to the Kaggle notebook: [Kag
 ### WandB Run Details
 Track training progress and view experiment details: [Wandb Report Link](https://api.wandb.ai/links/suparnojit2026-iisc/2v63a4in)
 
-[PDF](https://drive.google.com/file/d/1Dysb3dsWUgKJQW-tP16D0AjrBV-jgPqz/view?usp=sharing)
+[PDF](https://drive.google.com/file/d/1sBwtDu-HVfrS5zAvOHKDZmn0NN0c8kU8/view?usp=sharing)
 
 ### Complete Report
 For detailed project documentation and analysis: [Docs](https://docs.google.com/document/d/1N7OuYE1vUVSWzFI4aR0V3RzDNJeeb1BHAjezBm9dCUE/edit?usp=sharing)

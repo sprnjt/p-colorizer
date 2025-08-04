@@ -216,7 +216,7 @@ if __name__ == '__main__':
 
     parser.add_argument('--text_encoder_model', type=str, default="openai/clip-vit-base-patch32", help='Hugging Face model ID for the text encoder.')
 
-    parser.add_argument('--wandb_project', type=str, default="polygon-colorizer-diffusers-fixed", help='W&B project name.')
+    parser.add_argument('--wandb_project', type=str, default="polygon-colorizer-diffusers-final", help='W&B project name.')
     parser.add_argument('--wandb_entity', type=str, default=None, help='W&B entity (username or team). Defaults to your default entity.')
     parser.add_argument('--wandb_api_key', type=str, default=None, help='Your W&B API key.')
 
